@@ -1,4 +1,12 @@
-.allthatmargin {
+.picture {
 margin: 100px;
 padding: 10px;
+}
+
+p {
+color: red;
+}
+
+#title {
+    color: blue;
 }
